@@ -1,0 +1,39 @@
+<svg width="1400" height="920" viewBox="0 0 1400 920" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1400" height="920" fill="#08111B"/>
+<rect x="48" y="40" width="1304" height="840" rx="24" fill="#101826" stroke="#233249"/>
+<text x="84" y="100" fill="#F8FAFC" font-size="36" font-family="Arial, Helvetica, sans-serif" font-weight="700">Synthesis Preview — De-identified Zone Convergence</text>
+<text x="84" y="136" fill="#94A3B8" font-size="20" font-family="Arial, Helvetica, sans-serif">Example of the analyst-facing synthesis: zone ranking, tradeoffs, and convergence after multiple passes.</text>
+<rect x="84" y="184" width="1232" height="96" rx="16" fill="#172234"/>
+<text x="112" y="224" fill="#F8FAFC" font-size="24" font-family="Arial" font-weight="700">Final ranking</text>
+<text x="112" y="258" fill="#CBD5E1" font-size="18" font-family="Arial">Tier 1: Zone Cluster A + Zone Cluster B  ·  Tier 2: Zone Cluster C  ·  Tier 3: Old-stock fallback only</text>
+<rect x="84" y="312" width="388" height="240" rx="18" fill="#0F172A" stroke="#243041"/>
+<text x="112" y="352" fill="#93C5FD" font-size="24" font-family="Arial" font-weight="700">Zone Cluster A</text>
+<text x="112" y="392" fill="#CBD5E1" font-size="18" font-family="Arial">Pros</text>
+<text x="132" y="424" fill="#CBD5E1" font-size="16" font-family="Arial">• strongest listing freshness</text>
+<text x="132" y="452" fill="#CBD5E1" font-size="16" font-family="Arial">• newer communities more available</text>
+<text x="132" y="480" fill="#CBD5E1" font-size="16" font-family="Arial">• better chance of real contact conversion</text>
+<text x="112" y="522" fill="#FCA5A5" font-size="18" font-family="Arial">Risks</text>
+<text x="132" y="554" fill="#CBD5E1" font-size="16" font-family="Arial">• transit crowding may be worse</text>
+<rect x="506" y="312" width="388" height="240" rx="18" fill="#0F172A" stroke="#243041"/>
+<text x="534" y="352" fill="#86EFAC" font-size="24" font-family="Arial" font-weight="700">Zone Cluster B</text>
+<text x="534" y="392" fill="#CBD5E1" font-size="18" font-family="Arial">Pros</text>
+<text x="554" y="424" fill="#CBD5E1" font-size="16" font-family="Arial">• best housing stock fit</text>
+<text x="554" y="452" fill="#CBD5E1" font-size="16" font-family="Arial">• more aligned with “nice home” preference</text>
+<text x="554" y="480" fill="#CBD5E1" font-size="16" font-family="Arial">• strong if budget ceiling holds</text>
+<text x="534" y="522" fill="#FCA5A5" font-size="18" font-family="Arial">Risks</text>
+<text x="554" y="554" fill="#CBD5E1" font-size="16" font-family="Arial">• more likely to hit the budget ceiling</text>
+<rect x="928" y="312" width="388" height="240" rx="18" fill="#0F172A" stroke="#243041"/>
+<text x="956" y="352" fill="#FCD34D" font-size="24" font-family="Arial" font-weight="700">Zone Cluster C</text>
+<text x="956" y="392" fill="#CBD5E1" font-size="18" font-family="Arial">Pros</text>
+<text x="976" y="424" fill="#CBD5E1" font-size="16" font-family="Arial">• valid fallback, not imaginary</text>
+<text x="976" y="452" fill="#CBD5E1" font-size="16" font-family="Arial">• better under a northwest commute future</text>
+<text x="976" y="480" fill="#CBD5E1" font-size="16" font-family="Arial">• useful as a hedge sample</text>
+<text x="956" y="522" fill="#FCA5A5" font-size="18" font-family="Arial">Risks</text>
+<text x="976" y="554" fill="#CBD5E1" font-size="16" font-family="Arial">• heavily penalized if work shifts eastward</text>
+<rect x="84" y="588" width="1232" height="236" rx="18" fill="#0F172A" stroke="#243041"/>
+<text x="112" y="628" fill="#F8FAFC" font-size="24" font-family="Arial" font-weight="700">Convergence logic</text>
+<text x="112" y="672" fill="#CBD5E1" font-size="18" font-family="Arial">1. Do not optimize for today’s single commute only.</text>
+<text x="112" y="706" fill="#CBD5E1" font-size="18" font-family="Arial">2. Favor transit hub flexibility over geometric midpoint thinking.</text>
+<text x="112" y="740" fill="#CBD5E1" font-size="18" font-family="Arial">3. Reject areas where old-stock supply dominates if that violates a hard constraint.</text>
+<text x="112" y="774" fill="#CBD5E1" font-size="18" font-family="Arial">4. Keep one “defensive” zone in the search, but do not let it silently become the default.</text>
+</svg>

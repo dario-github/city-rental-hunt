@@ -1,0 +1,39 @@
+<svg width="1400" height="940" viewBox="0 0 1400 940" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1400" height="940" fill="#0B1020"/>
+<rect x="48" y="40" width="1304" height="860" rx="24" fill="#11172A" stroke="#26304D"/>
+<text x="84" y="102" fill="#F8FAFC" font-size="36" font-family="Arial, Helvetica, sans-serif" font-weight="700">Morning Brief — De-identified Preview</text>
+<text x="84" y="138" fill="#94A3B8" font-size="20" font-family="Arial, Helvetica, sans-serif">Example of the user-facing output: top zones, contact-first leads, and first-contact questions.</text>
+<rect x="84" y="182" width="380" height="136" rx="18" fill="#18233B"/>
+<text x="108" y="222" fill="#93C5FD" font-size="18" font-family="Arial">Best zone tonight</text>
+<text x="108" y="266" fill="#F8FAFC" font-size="30" font-family="Arial" font-weight="700">Zone Cluster A</text>
+<text x="108" y="300" fill="#CBD5E1" font-size="18" font-family="Arial">Freshest supply + strongest fit + repeatable leads</text>
+<rect x="484" y="182" width="380" height="136" rx="18" fill="#18233B"/>
+<text x="508" y="222" fill="#86EFAC" font-size="18" font-family="Arial">Backup zone</text>
+<text x="508" y="266" fill="#F8FAFC" font-size="30" font-family="Arial" font-weight="700">Zone Cluster B</text>
+<text x="508" y="300" fill="#CBD5E1" font-size="18" font-family="Arial">Good housing stock, slightly tighter on budget</text>
+<rect x="884" y="182" width="380" height="136" rx="18" fill="#18233B"/>
+<text x="908" y="222" fill="#FCA5A5" font-size="18" font-family="Arial">Conservative fallback</text>
+<text x="908" y="266" fill="#F8FAFC" font-size="30" font-family="Arial" font-weight="700">Zone Cluster C</text>
+<text x="908" y="300" fill="#CBD5E1" font-size="18" font-family="Arial">Usable, but worse under an eastward commute future</text>
+<rect x="84" y="354" width="800" height="474" rx="18" fill="#0F172A" stroke="#243041"/>
+<text x="112" y="396" fill="#F8FAFC" font-size="28" font-family="Arial" font-weight="700">Top leads to contact first</text>
+<rect x="112" y="424" width="744" height="82" rx="14" fill="#18233B"/>
+<text x="136" y="458" fill="#FCD34D" font-size="18" font-family="Arial">1. Listing A · new-enough community · 2BR · pet-friendly signal</text>
+<text x="136" y="486" fill="#CBD5E1" font-size="16" font-family="Arial">Why it matters: strong fit, fresh post, high contact priority</text>
+<rect x="112" y="520" width="744" height="82" rx="14" fill="#18233B"/>
+<text x="136" y="554" fill="#FCD34D" font-size="18" font-family="Arial">2. Listing B · large living room signal · landlord/transfer likely</text>
+<text x="136" y="582" fill="#CBD5E1" font-size="16" font-family="Arial">Why it matters: likely livable layout, worth verifying exact price</text>
+<rect x="112" y="616" width="744" height="82" rx="14" fill="#18233B"/>
+<text x="136" y="650" fill="#FCD34D" font-size="18" font-family="Arial">3. Listing C · backup but stable · good transit flexibility</text>
+<text x="136" y="678" fill="#CBD5E1" font-size="16" font-family="Arial">Why it matters: not the strongest home, but robust under uncertainty</text>
+<rect x="112" y="712" width="744" height="88" rx="14" fill="#18233B"/>
+<text x="136" y="746" fill="#93C5FD" font-size="18" font-family="Arial">First-contact checklist</text>
+<text x="136" y="776" fill="#CBD5E1" font-size="16" font-family="Arial">• still available? • monthly rent + fees? • pets allowed? • landlord or agent? • exact building age? • earliest viewing date?</text>
+<rect x="912" y="354" width="352" height="474" rx="18" fill="#0F172A" stroke="#243041"/>
+<text x="940" y="396" fill="#F8FAFC" font-size="28" font-family="Arial" font-weight="700">Why this brief is useful</text>
+<text x="940" y="446" fill="#CBD5E1" font-size="18" font-family="Arial">• no raw dump of weak links</text>
+<text x="940" y="484" fill="#CBD5E1" font-size="18" font-family="Arial">• separates winning zones from fallback zones</text>
+<text x="940" y="522" fill="#CBD5E1" font-size="18" font-family="Arial">• forces first-contact verification questions</text>
+<text x="940" y="560" fill="#CBD5E1" font-size="18" font-family="Arial">• lets a human act immediately in the morning</text>
+<text x="940" y="628" fill="#94A3B8" font-size="16" font-family="Arial">All community names, listing IDs, prices, and private context in the original run were removed or generalized for public release.</text>
+</svg>
